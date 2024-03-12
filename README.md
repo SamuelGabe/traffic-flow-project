@@ -1,9 +1,3 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=6351680&assignment_repo_type=AssignmentRepo)
-# ScientificComputingProject-frazerpearce
- SCO_project
-
-Student ID: 20171403
-
 # Files
 test_main.py: Contains 5 unit tests. Four of these are to check that the acceleration, braking, randomization and checkpoint tests from the documentation work. I implemented the other test to make sure my lanes work as intended.
 
