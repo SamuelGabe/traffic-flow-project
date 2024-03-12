@@ -1,3 +1,6 @@
+# Traffic flow project
+This is a clone of the original repository so changes are not visible. The original project was in a private repository.
+
 # Files
 test_main.py: Contains 5 unit tests. Four of these are to check that the acceleration, braking, randomization and checkpoint tests from the documentation work. I implemented the other test to make sure my lanes work as intended.
 
